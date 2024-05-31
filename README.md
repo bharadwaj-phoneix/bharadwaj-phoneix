@@ -57,7 +57,7 @@ I am a software developer with a strong enthusiasm for Data Science and a passio
 </a>
 
 <a href="http://www.github.com/bharadwaj-phoneix">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharadwaj-phoneix&bg_color=151515&color=ffcc00&line=ff0000&point=ffffff&area_color=151515&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwaj-phoneix&bg_color=151515&color=ffcc00&line=ff0000&point=ffffff&area_color=151515&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
 <a href="https://github.com/bharadwaj-phoneix" align="left">
