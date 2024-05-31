@@ -10,7 +10,7 @@ I am a software developer with a strong enthusiasm for Data Science and a passio
 * ✉️  You can contact me at [bharadwajiit2020@gmail.com](mailto:bharadwajiit2020@gmail.com)
 * 🧠  I'm learning Data Science related stuff!
 * 🤝  I'm open to collaborating on Machine Learning and Data related Projects
-* ⚡  I'm Ironman, Tell Everyone
+* ⚡  I'm Ironman, Tell Everyone 😉
 
 ### Skills
 
